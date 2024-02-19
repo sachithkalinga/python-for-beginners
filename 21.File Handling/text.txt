@@ -1,0 +1,4 @@
+r   ---->   read only
+w   ---->   write only
+a   ---->   append
+w+  ---->   read and write
